@@ -33,5 +33,4 @@ void loop() {
     else if (cmd = 'S')move(LOW,LOW,LOW,LOW);
     else if (cmd = 'Y'){kicker.write(130); delay(300);kicker.write(60);}
   }
-
 }
