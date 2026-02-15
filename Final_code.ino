@@ -14,7 +14,7 @@ void move(int s1,int s2,int s3,int s4){
   digitalWrite(IN4,s4);
 }
 void setup() {
-  BT.begin("V1");
+  BT.begin("FINAL_V");
   kicker.attach(servokicker);
   kicker.write(10);
   pinMode(IN1,OUTPUT);
