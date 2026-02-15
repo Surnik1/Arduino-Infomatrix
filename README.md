@@ -16,3 +16,4 @@ F / B for forward and back.
 L / R for spin turns (tank mode).
 Y to trigger the kicker and score!
 It was a lot of trial and error with the wiring and code, but it's finally working and it's pretty fast.
+![Circuit Diagram](Circuit_diagram.drawio.png)
